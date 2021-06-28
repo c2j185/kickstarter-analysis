@@ -1,5 +1,7 @@
 **#Kickstarting with Excel
+
 ##Overview of Project
+
 ###Purpose**
 The purpose of the analysis was to visualize and compare how successful different plays were at meeting their fundraising goal. Analyzing whether the amount of the goal or the relative launch date of the Kickstarter campaign had any bearing on how successful a campaign was.
 **##Analysis and Challenges
